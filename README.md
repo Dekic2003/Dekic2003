@@ -1,7 +1,7 @@
 ### Hello there 👋
 
 - 💻 I'm 1/4 of [Debugger Team](https://debugger.team/)
-- 🎓 I'm student at JUMS Elektrotehnicka Skola Tuzla
+- 🎓 I'm student at International Burch University
 - 🔭 I’m currently working on ... welp its a secret
 - 🌱 I’m currently learning a bit more of Backend
 
